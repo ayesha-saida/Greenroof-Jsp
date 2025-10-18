@@ -6,6 +6,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Greenroof - Home</title>
+
+<!--CSS Connection file -->
 <link rel="stylesheet"  type="text/css"  href="styles/index.css" />
 <link
     href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css"
@@ -21,7 +23,8 @@
       </select>
       <button>Search</button>
     </div> -->
-<!-- navbar section -->
+    
+<!-- navbar  -->
 <div class="nav">
   <div>
   <h1 class="lobster-regular">Greenroof</h1>
@@ -29,15 +32,15 @@
 
   <div>
     <ul class="navbar-center">
-      <li> <a href="#">Home</a>
+      <li> <a href="index.jsp">Home</a>
       </li>
       
       <li class="dropdown" id="category">
-        <a href="#"> <span>Shop </span> 
+        <a href="products.jsp"> <span>Products </span> 
     </a>
      </li>
      
-      <li><a href="#">Contact US</a></li>
+      <li><a href="contact.jsp">Contact US</a></li>
     </ul>
   </div>
 
@@ -76,5 +79,79 @@
 </div>
 </div>
 
+<!-- feautures section -->
+  <section class="features" id="features">
+    <h1 class="heading">
+      our features 
+    </h1>
+    <div class="box-container">
+      <div class="box">
+        <img src="images/organic_1.jpg">
+        <h3>fresh and organic</h3>
+        <p>Lorem ipsum  </p>
+        <a href="#" class="btn-f">read more</a>
+      </div>
+
+      <div class="box">
+        <img src="images/delivery_1.jpg">
+        <h3>delivery slot selection</h3>
+        <p>Lorem ipsum dolor. </p>
+        <a href="#" class="btn-f">read more</a>
+      </div>
+
+      <div class="box">
+        <img src="images/payment_1.jpg">
+        <h3>easy payment method</h3>
+        <p>Lorem ipsum dolor  </p>
+        <a href="#" class="btn-f">read more</a>
+      </div>
+    </div>
+  </section>
+  
+  <!--footer-->
+   <div class="footer">
+<div class="menu">
+  <h1>Menu</h1>
+  <p>Home</p>
+  <p>Shop</p>
+  <p>Contact Us</p>
+</div>
+
+<div class="legal">
+  <h1>Customer Care</h1>
+  <p>How to buy</p>
+  <p>Returns and refunds</p>
+  <p>terms & condition</p>
+</div>
+
+<div class=footer-right>
+<div class="social">
+  <h1>Connect with us</h1>
+  <div class="icon">
+  <i class="ri-facebook-circle-fill"></i>
+  <i class="ri-instagram-line"></i>
+ <i class="ri-linkedin-fill"></i>
+ <i class="ri-twitter-x-line"></i>
+  </div>
+</div>
+
+<div class="payment">
+  <h1>Payment method:</h1>
+   <div class="payment-card-list">
+      <a href=""> <img class="payment-icon" src="icon_image/cod.png" alt="cod"> </a>
+
+      <a href=""> <img class="payment-icon" src="icon_image/bkash.png" alt="bKash"> </a>
+
+      <a href=""> <img class="payment-icon" src="icon_image/nagad.png" alt="nagad"> </a>
+
+      <a href=""> <img class="payment-icon" src="icon_image/rocket.png" alt="rocket"> </a>
+    </div>
+</div>
+</div>
+  </div>
+  <footer class="copyright">
+    <p>copyright@ayeshasultana2025</p>
+  </footer>
+ 
 </body>
 </html>
