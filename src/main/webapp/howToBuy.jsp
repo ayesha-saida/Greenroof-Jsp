@@ -1,0 +1,77 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>How to Buy</title>
+    <link rel="stylesheet"  type="text/css" href="styles/howBuy.css">
+ <link rel="stylesheet"  type="text/css"  href="styles/index.css" />
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <h1>How to Buy Fresh Vegetables</h1>
+            <p>Follow these simple steps to order your fresh vegetables online. We offer fast delivery right to your
+                door!</p>
+        </header>
+
+        <section class="buy-steps">
+            <div class="step">
+                <h2>Step 1: Browse Our Fresh Products</h2>
+                <p>We have a wide range of fresh vegetables, leaf vegetables and fruits available. Browse through our
+                    categories and choose your
+                    desired items. Whether you need leafy greens, root vegetables, or fresh herbs, we’ve got you
+                    covered!</p>
+                <a href="product.html">Browse Our Products</a>
+            </div>
+
+            <div class="step">
+                <h2>Step 2: Add to Your Cart</h2>
+                <p>Once you've selected your vegetables, simply add them to your cart. You can adjust the quantity,
+                    check for any available discounts, and continue shopping or proceed to checkout.</p>
+                <a href="product.html">Add to Cart</a>
+            </div>
+
+            <div class="step">
+                <h2>Step 3: Checkout and Delivery</h2>
+                <p>After selecting your items, head to the checkout page. Fill in your details, including your delivery
+                    address and payment information. We offer different payment options like cash on delivery and
+                    mobile
+                    banking like Bkash, Nagad, Rocket.</p>
+                <a href="checkOut.html">Checkout</a>
+            </div>
+
+            <div class="step">
+                <h2>Step 4: Receive Your Fresh Foods</h2>
+                <p>Your orders will be delivered straight to your doorstep within the selected delivery window. Our
+                    team ensures that all orders are handled with care to preserve freshness.</p>
+            </div>
+        </section>
+
+        <section class="payment-info">
+            <h2>Payment Methods</h2>
+            <p>We accept various payment methods for your convenience:</p>
+            <ul>
+                <li>Mobile banking</li>
+                <li>Cash on Delivery</li>
+            </ul>
+        </section>
+
+        <section class="contact">
+            <h2>Need Help?</h2>
+            <p>If you have any questions or need assistance during your order, feel free to <a
+                    href="contact.jsp">contact us.</a></p>
+        </section>
+
+    </div>
+
+
+</body>
+
+</html>

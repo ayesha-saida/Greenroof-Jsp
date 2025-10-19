@@ -45,7 +45,6 @@
   </div>
 
   <div class="navbar-last">
-  <div> <i class="ri-search-2-line" id="search-btn"></i> </div>
   <div> <i class="ri-shopping-bag-4-line" id="cart-btn"></i> </div>
    <div> <i class="ri-user-line" id="login-btn"></i> </div>
 </div>
@@ -59,7 +58,8 @@
 </div>
 
 <div class="center-banner">
-<h2>A Rooftop Gardening Crops Selling Website.</h1>
+<h2>A Rooftop Gardening Crops Selling Website.</h2>
+
 <div class="dropdown explore-dropdown">
   <button class="btn">Explore <i class="ri-arrow-down-s-line"></i></button>
   <ul class="dropdown-menu">
@@ -112,16 +112,16 @@
    <div class="footer">
 <div class="menu">
   <h1>Menu</h1>
-  <p>Home</p>
-  <p>Shop</p>
-  <p>Contact Us</p>
+  <p><a href="index.jsp">Home </a> </p>
+  <p><a href="products.jsp">Shop </a> </p>
+  <p><a href="contact.jsp">Contact Us</a> </p>
 </div>
 
 <div class="legal">
   <h1>Customer Care</h1>
-  <p>How to buy</p>
-  <p>Returns and refunds</p>
-  <p>terms & condition</p>
+  <p><a href="howToBuy.jsp"> How to buy </a></p>
+  <p><a href="returnPolicy.jsp">Returns and refunds </a></p>
+  <p><a href="termsCondition.jsp">Terms and condition </a> </p>
 </div>
 
 <div class=footer-right>
@@ -138,13 +138,13 @@
 <div class="payment">
   <h1>Payment method:</h1>
    <div class="payment-card-list">
-      <a href=""> <img class="payment-icon" src="icon_image/cod.png" alt="cod"> </a>
+      <a href="cash on delivery"> <img class="payment-icon" src="icon_image/cod.png" alt="cod"> </a>
 
-      <a href=""> <img class="payment-icon" src="icon_image/bkash.png" alt="bKash"> </a>
+      <a href="bkash"> <img class="payment-icon" src="icon_image/bkash.png" alt="bKash"> </a>
 
-      <a href=""> <img class="payment-icon" src="icon_image/nagad.png" alt="nagad"> </a>
+      <a href="nagad"> <img class="payment-icon" src="icon_image/nagad.png" alt="nagad"> </a>
 
-      <a href=""> <img class="payment-icon" src="icon_image/rocket.png" alt="rocket"> </a>
+      <a href="rocket"> <img class="payment-icon" src="icon_image/rocket.png" alt="rocket"> </a>
     </div>
 </div>
 </div>

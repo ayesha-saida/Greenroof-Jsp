@@ -1,0 +1,92 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Terms and Condition</title>
+    <link rel="stylesheet"  type="text/css" href="styles/terms.css">
+ <link rel="stylesheet"  type="text/css"  href="styles/index.css" />
+</head>
+<body>
+  <div class="container">
+        <header>
+            <h1>Terms and Conditions</h1>
+            <p>By using our website and purchasing from us, you agree to the following Terms and Conditions. Please read
+                them carefully.</p>
+        </header>
+
+        <section class="terms-content">
+            <h2>1. Introduction</h2>
+            <p>Welcome to GreenRoof. These Terms and Conditions ("Terms") govern your use of our website and
+                services. By using our site, you agree to comply with these Terms. If you do not agree with these Terms,
+                please do not use our website or purchase our products.</p>
+
+            <!--   <h2>2. Account Registration</h2>
+            <p>To place an order or access certain features of our site, you may be required to create an account. You
+                agree to provide accurate and complete information during the registration process and update your
+                account details as necessary.</p>
+            <p>You are responsible for keeping your account credentials confidential and agree to notify us immediately
+                if you suspect any unauthorized access to your account.</p> -->
+
+            <h2>2. Ordering and Payment</h2>
+            <p>By placing an order on our website, you are making an offer to purchase products under these Terms. We
+                reserve the right to accept or reject any order for any reason, including availability of stock, pricing
+                errors, or delivery issues.</p>
+            <p>Payments are due at the time of order. We accept various forms of payment, including cash on delivery and
+                mobile banking. All transactions are secure and processed through third-party payment gateways.</p>
+
+            <h2>3. Pricing and Availability</h2>
+            <p>We make every effort to ensure that prices and availability information on our website are accurate.
+                However, errors may occur. If there is a pricing error, we will notify you as soon as possible. You will
+                be given the option to either accept the corrected price or cancel your order and receive a full refund.
+            </p>
+
+            <h2>4. Delivery</h2>
+            <p>We aim to deliver all orders on customer provided convenient time. Delivery charges will be calculated
+                during the checkout process and added to your
+                total order cost.</p>
+            <p>If the delivery is delayed or the products arrive damaged, please contact our customer support team
+                within 24 hours for assistance.</p>
+
+            <h2>5. Cancellations and Refunds</h2>
+            <p>Please refer to our <a href="returnPolicy.jsp">Returns and Refunds Policy</a> for detailed
+                information on cancellations, refunds, and the procedures for returning products.</p>
+
+            <h2>6. Customer Obligations</h2>
+            <p>You agree to use the website and its services for lawful purposes only. You agree not to engage in any
+                activity that could harm, disable, or impair the website or interfere with other users' use of the
+                website.</p>
+            <p>You also agree not to misuse any content from our website, including copying, reproducing, or
+                distributing materials without prior permission.</p>
+
+            <h2>7. Intellectual Property</h2>
+            <p>All content on this website, including text, images, logos, and product descriptions, is the property of
+                GreenRoof and is protected by copyright and trademark laws. You may not use or reproduce any of
+                the content without express permission from us.</p>
+
+            <h2>8. Limitation of Liability</h2>
+            <p>We are not liable for any indirect, incidental, or consequential damages arising out of the use of our
+                website or the purchase of our products. We are also not responsible for any loss of data or damage
+                caused by viruses or other harmful components.</p>
+
+            <h2>9. Changes to the Terms</h2>
+            <p>We reserve the right to modify or update these Terms at any time without prior notice. Any changes will
+                be effective immediately upon posting on this page. Your continued use of the website after such changes
+                signifies your acceptance of the new Terms.</p>
+
+            <h2>10. Governing Law</h2>
+            <p>These Terms will be governed by and construed in accordance with the laws of the jurisdiction in which
+                GreenRoof operates, without regard to its conflict of law principles.</p>
+
+            <h2>12. Contact Us</h2>
+            <p>If you have any questions about these Terms and Conditions, please contact us at:</p>
+            <ul>
+                <li><strong>Email:</strong> support@greenroof.com</li>
+                <li><strong>Phone:</strong> + (880) 123456789</li>
+                <li><strong>Address:</strong> Sabujbag, Dhaka, Bangladesh.</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
