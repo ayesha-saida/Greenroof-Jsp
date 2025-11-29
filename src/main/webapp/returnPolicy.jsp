@@ -5,9 +5,9 @@
 <head>
 <meta charset="UTF-8">
 <title>Greenroof - Return and Refunds Policy</title>
-    <link rel="stylesheet"  type="text/css" href="styles/returnPolicy.css">
-    <!-- <link rel="stylesheet"  type="text/css"  href="styles/index.css" /> -->
+  <link rel="stylesheet"  type="text/css" href="styles/sharedStyles.css">
 </head>
+
 <body>
 
     <div class="container">

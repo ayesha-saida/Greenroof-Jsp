@@ -5,9 +5,9 @@
 <head>
 <meta charset="UTF-8">
 <title>Greenroof - Terms and Condition</title>
-    <link rel="stylesheet"  type="text/css" href="styles/terms.css">
-  <!-- <link rel="stylesheet"  type="text/css"  href="styles/index.css" /> -->
+  <link rel="stylesheet"  type="text/css" href="styles/sharedStyles.css">
 </head>
+
 <body>
   <div class="container">
         <header>

@@ -1,0 +1,164 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* GLOBAL RESETS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* GENERAL LAYOUT */
+body {
+  font-family: "Inter Tight", sans-serif;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: flex-center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 900px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+header p {
+  font-size: 1rem;
+  color: #555;
+}
+
+/* ================================
+   PAGE-SPECIFIC SECTIONS
+   ================================ */
+
+/* POLICY DETAILS */
+.policy-details,
+.terms-content,
+.buy-steps,
+.payment-info,
+.contact {
+  margin-bottom: 40px;
+}
+
+/* POLICY DETAILS */
+.policy-details h2 {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 15px;
+}
+
+.policy-details p,
+.policy-details ul li {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.policy-details ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.policy-details a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.policy-details a:hover {
+  text-decoration: underline;
+}
+
+/* TERMS CONTENT */
+.terms-content h2 {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 15px;
+}
+
+.terms-content p,
+.terms-content ul li {
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.terms-content ul {
+  list-style: none;
+}
+
+/* HOW-TO-BUY PAGE */
+.step {
+  margin-bottom: 30px;
+}
+
+.step h2 {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.step p {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.step img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.payment-info h2,
+.contact h2 {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.payment-info p,
+.payment-info ul li,
+.contact p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.payment-info ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  header h1 {
+    font-size: 2rem;
+  }
+
+  .step h2,
+  .terms-content h2,
+  .policy-details h2,
+  .payment-info h2 {
+    font-size: 1.5rem;
+  }
+
+  .step p,
+  .terms-content p,
+  .policy-details p {
+    font-size: 1rem;
+  }
+}

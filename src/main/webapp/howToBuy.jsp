@@ -8,8 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Greenroof - How to Buy a Product</title>
-    <link rel="stylesheet"  type="text/css" href="styles/howBuy.css">
-  <!-- <link rel="stylesheet"  type="text/css"  href="styles/index.css" /> -->
+    <link rel="stylesheet"  type="text/css" href="styles/sharedStyles.css">
 </head>
 
 <body>
