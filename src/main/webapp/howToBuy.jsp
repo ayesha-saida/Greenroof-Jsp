@@ -7,9 +7,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>How to Buy</title>
+    <title>Greenroof - How to Buy a Product</title>
     <link rel="stylesheet"  type="text/css" href="styles/howBuy.css">
- <link rel="stylesheet"  type="text/css"  href="styles/index.css" />
+  <!-- <link rel="stylesheet"  type="text/css"  href="styles/index.css" /> -->
 </head>
 
 <body>
@@ -28,7 +28,7 @@
                     categories and choose your
                     desired items. Whether you need leafy greens, root vegetables, or fresh herbs, we’ve got you
                     covered!</p>
-                <a href="product.html">Browse Our Products</a>
+                <a href="products.jsp">Browse Our Products</a>
             </div>
 
             <div class="step">

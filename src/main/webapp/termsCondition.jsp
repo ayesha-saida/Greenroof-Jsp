@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Terms and Condition</title>
+<title>Greenroof - Terms and Condition</title>
     <link rel="stylesheet"  type="text/css" href="styles/terms.css">
- <link rel="stylesheet"  type="text/css"  href="styles/index.css" />
+  <!-- <link rel="stylesheet"  type="text/css"  href="styles/index.css" /> -->
 </head>
 <body>
   <div class="container">

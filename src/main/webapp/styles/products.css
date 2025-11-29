@@ -4,9 +4,9 @@
 	    padding:70px 0;
 		border: 0px solid;
 		display:grid;
-	  grid-template-columns: repeat(4, auto);
+	    grid-template-columns: repeat(4, auto);
 		gap:25px;
-		  justify-content: center;
+	    justify-content: center;
 }
 .card{
 	border: 1px solid #ddd;

@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
-    <link rel="stylesheet"  type="text/css" href="styles/retrunPolicy.css">
- <link rel="stylesheet"  type="text/css"  href="styles/index.css" />
+<title>Greenroof - Return and Refunds Policy</title>
+    <link rel="stylesheet"  type="text/css" href="styles/returnPolicy.css">
+    <!-- <link rel="stylesheet"  type="text/css"  href="styles/index.css" /> -->
 </head>
 <body>
 
@@ -21,11 +21,14 @@
 
             <!--Cancellation Policy-->
             <h2>Cancellation Policy</h2>
+            
             <p>We understand that sometimes plans change. If you wish to cancel your order, please inform us at least
                 <b> 1 day before </b>the scheduled delivery time.
             </p>
+            
             <p>To cancel your order, please contact us directly via the <a href="contact.jsp">Contact Us</a> page.
                 Our team will assist you with the cancellation process.</p>
+           
             <p>If the delivery man has already been dispatched and is on their way, cancellations will not be accepted.
                 However, you can still refuse the order at the time of delivery, but in such cases:</p>
             <ul>
@@ -35,30 +38,36 @@
 
             <!--Returns and Exchanges-->
             <h2>Returns and Exchanges</h2>
+           
             <p>Unfortunately, due to the perishable nature of our products, we cannot accept returns or exchanges after
                 the vegetables have been delivered. Please inspect your order upon arrival to ensure everything is
                 correct.</p>
-            <p>If you receive damaged or incorrect items, please contact us within <b> 24 hours of delivery.</b> We
-                will
-                assess the issue and offer a suitable resolution, such as a replacement or refund, depending on the
+            
+            <p>If you receive damaged or incorrect items, please contact us within <b> 2 to 3 hours of delivery.</b> We
+                will assess the issue and offer a suitable resolution, such as a replacement or refund, depending on the
                 situation.</p>
 
             <!--Refund Policy-->
             <h2>Refund Policy</h2>
+            
             <p>If you are eligible for a refund due to an issue with your order (e.g., incorrect or damaged items), the
                 refund will be processed through your original payment method. Please note the following:</p>
             <ul>
                 <li>Refunds will be processed within <b>7 business days </b> after approval.</li>
+               
                 <li>If a partial order is canceled, the refund will be based on the canceled items, excluding the
                     delivery fee.</li>
+                
                 <li>In cases where cancellation occurs after the delivery man has left the warehouse but before the
                     delivery is made, you will still be charged the delivery fee and a <b>half payment </b>cancellation
                     fee.</li>
             </ul>
 
             <h2>How to Contact Us for Cancellations or Issues</h2>
+           
             <p>If you have any issues with your order or wish to request a cancellation, please reach out to us as soon
                 as possible. We are available via:</p>
+            
             <ul>
                 <li><strong>Email:</strong> support@greenroof.com</li>
                 <li><strong>Phone:</strong> +1 (800) 123-4567</li>
